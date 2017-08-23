@@ -1,0 +1,11 @@
+C:\Users\VALID04\Documents\GitHub\ConsultaNotas\ConsultaNotas\ConsultaNotas\bin\Debug\netcoreapp2.0\ConsultaNotas.deps.json
+C:\Users\VALID04\Documents\GitHub\ConsultaNotas\ConsultaNotas\ConsultaNotas\bin\Debug\netcoreapp2.0\ConsultaNotas.runtimeconfig.json
+C:\Users\VALID04\Documents\GitHub\ConsultaNotas\ConsultaNotas\ConsultaNotas\bin\Debug\netcoreapp2.0\ConsultaNotas.runtimeconfig.dev.json
+C:\Users\VALID04\Documents\GitHub\ConsultaNotas\ConsultaNotas\ConsultaNotas\bin\Debug\netcoreapp2.0\ConsultaNotas.dll
+C:\Users\VALID04\Documents\GitHub\ConsultaNotas\ConsultaNotas\ConsultaNotas\obj\Debug\netcoreapp2.0\ConsultaNotas.csproj.CoreCompileInputs.cache
+C:\Users\VALID04\Documents\GitHub\ConsultaNotas\ConsultaNotas\ConsultaNotas\obj\Debug\netcoreapp2.0\ConsultaNotas.AssemblyInfoInputs.cache
+C:\Users\VALID04\Documents\GitHub\ConsultaNotas\ConsultaNotas\ConsultaNotas\obj\Debug\netcoreapp2.0\ConsultaNotas.AssemblyInfo.cs
+C:\Users\VALID04\Documents\GitHub\ConsultaNotas\ConsultaNotas\ConsultaNotas\bin\Debug\netcoreapp2.0\ConsultaNotas.pdb
+C:\Users\VALID04\Documents\GitHub\ConsultaNotas\ConsultaNotas\ConsultaNotas\obj\Debug\netcoreapp2.0\ConsultaNotas.dll
+C:\Users\VALID04\Documents\GitHub\ConsultaNotas\ConsultaNotas\ConsultaNotas\obj\Debug\netcoreapp2.0\ConsultaNotas.pdb
+C:\Users\VALID04\Documents\GitHub\ConsultaNotas\ConsultaNotas\ConsultaNotas\obj\Debug\netcoreapp2.0\ConsultaNotas.csprojResolveAssemblyReference.cache
