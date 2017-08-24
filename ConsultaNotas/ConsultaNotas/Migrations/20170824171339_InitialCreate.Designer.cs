@@ -11,7 +11,7 @@ using System;
 namespace ConsultaNotas.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20170823220000_InitialCreate")]
+    [Migration("20170824171339_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
